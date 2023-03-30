@@ -1,4 +1,4 @@
-# Swing-Minesweeper
+# open-swing-minesweeper
 
 Simple Minesweeper Game written in Java using Swing.
 
@@ -9,15 +9,11 @@ Simple Minesweeper Game written in Java using Swing.
 - Timer
 - Restart or Start New Game
 - Status Bar with emoji
-- Multi-language support (supports English (United States), Simplified Chinese (China mainland), Traditional Chinese (Hong Kong), Traditional Chinese (Taiwan), Japanese (Japan), Wu Chinese / Shanghainess (China mainland))
+- Multi-language support (supports English, Simplified Chinese, Traditional Chinese, Japanese, Wu Chinese / Shanghainess)
 
 ## Download
 
-[Release](https://github.com/ZJUT-Java-22-Spring/Swing-Minesweeper/releases)
-
-## Development Documents
-
-[See This](https://github.com/ZJUT-Java-22-Spring/Swing-Minesweeper/blob/main/devdoc/main.md)
+[Release](https://github.com/ZJUT-Java-22-Spring/open-swing-minesweeper/releases)
 
 ## References
 
