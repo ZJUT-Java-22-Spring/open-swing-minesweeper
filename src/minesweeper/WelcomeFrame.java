@@ -243,7 +243,7 @@ public class WelcomeFrame extends JFrame {
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
-        languageStrings = new String[]{"Default", "English (US)", "简体中文 (中国大陆)", "日本語 (日本)", "繁體中文 (中國台灣)", "繁體中文 (中國香港)", "简体吴语 (中国大陆)"};
+        languageStrings = new String[]{"Default", "English (US)", "简体中文 (中国大陆)", "日本語", "繁體中文 (台灣)", "繁體中文 (香港)", "吴语"};
         languageComboBox = new JComboBox(languageStrings);
     }
 }
